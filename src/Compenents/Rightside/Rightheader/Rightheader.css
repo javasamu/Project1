@@ -1,0 +1,78 @@
+.rightside-header{
+    display: flex;
+    gap: 440px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#header1{
+    background-color:rgb(223, 221, 221) ;
+    
+}
+.middle-section{
+    margin-top: 30px;
+    display: flex;
+    gap: 10px;
+    border-bottom: 1px solid rgb(182, 174, 174);
+   
+}
+.names{
+    margin-left: 20px;
+    color: white;
+    font-size: 25px;
+    margin-top: 60px;
+}
+#image{
+    width: 60%;
+    margin-left: 20PX;
+    height: 100%;
+}
+
+/* .profile{
+    margin-top: 17%;
+    margin-left: 25%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+} */
+.bottom-section{
+   
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(121, 121, 166);
+    border-bottom: 1px solid rgb(169, 161, 161);
+}
+#bottom{
+    margin-left: 20%;
+}
+.paragraph1{
+    display: flex;
+}
+.sentence{
+    display: flex;
+    flex-direction: column;
+}
+.midle{
+    border-bottom: 1px solid rgb(169, 161, 161);
+}
+.paragraph2{
+    display: flex;
+}
+.line2{
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(121, 121, 166);
+}
+.icons{
+    display: flex;
+    margin-top: 50px;
+    gap: 15px;
+    margin-left: 180px;
+    flex-direction: column;
+}
+#image2{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
